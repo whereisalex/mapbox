@@ -1,6 +1,6 @@
 # Maps
 
-Simple project to test [mapbox](https://www.mapbox.com/).
+Demo Vue app to play around with [mapbox](https://www.mapbox.com/).
 
 ## Project setup
 
