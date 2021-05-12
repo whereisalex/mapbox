@@ -25,7 +25,7 @@ const user =  [{"id":1,"firstName":"Leland","lastName":"Thorold","image":"https:
 {"id":25,"firstName":"Arch","lastName":"Cracoe","image":"https://robohash.org/iurequoqui.png?size=50x50&set=set1","lat":50.5089112,"long":26.2566443},
 {"id":26,"firstName":"Elfrida","lastName":"Naisbitt","image":"https://robohash.org/autenimatque.png?size=50x50&set=set1","lat":-7.7546695,"long":112.1877315},
 {"id":27,"firstName":"Marilyn","lastName":"Broxis","image":"https://robohash.org/sedveritatissapiente.png?size=50x50&set=set1","lat":36.8903434,"long":38.3500108},
-{"id":28,"firstName":"Melisent","lastName":"Trowill","image":"https://robohash.org/teneturharumminima.png?size=50x50&set=set1","lat":53.7925065,"long":-113.6463436},
+{"id":28,"firstName":"Melisent","lastName":"Trowill","image":"https://robohash.org/teneturharumminima.png?size=50x50&set=set1","lat":53.7925065,"long":-83.6463436},
 {"id":29,"firstName":"Zarah","lastName":"Kempe","image":"https://robohash.org/quiaidet.png?size=50x50&set=set1","lat":54.1347287,"long":33.2921685},
 {"id":30,"firstName":"Mirella","lastName":"Morston","image":"https://robohash.org/estsuntasperiores.png?size=50x50&set=set1","lat":59.3257766,"long":18.0470069},
 {"id":31,"firstName":"Mellie","lastName":"McMackin","image":"https://robohash.org/estquivoluptas.png?size=50x50&set=set1","lat":7.7916349,"long":122.7785327},

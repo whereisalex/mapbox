@@ -4,10 +4,6 @@
     <div class="map-wrapper">
       <MapboxMap/>
     </div>
-
-    <h3>Google maps</h3>
-      <div class="map-wrapper">
-    </div>
   </div>
 </template>
 

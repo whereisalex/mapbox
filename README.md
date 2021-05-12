@@ -1,6 +1,6 @@
 # Maps
 
-Simple test project to compare [mapbox](https://www.mapbox.com/) and [Google Maps](https://developers.google.com/maps).
+Simple project to test [mapbox](https://www.mapbox.com/).
 
 ## Project setup
 
@@ -9,7 +9,6 @@ Create an .env file in the root directory with the following entries:
 ```javascript
 VUE_APP_MAPBOX_TOKEN=MAPBOX PUBLIC TOKEN
 VUE_APP_MAPBOX_STYLE_URL=MAPBOX STYLE URL
-VUE_APP_GOOGLE_MAPS_API_KEY=GOOGLE MAPS API KEY
 ```
 
 ## Available scripts
