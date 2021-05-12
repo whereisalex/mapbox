@@ -2,7 +2,7 @@
   <MglMap :accessToken="accessToken" :mapStyle="mapStyle">
     <MglMarker v-for="member in members" v-bind:key="member.id" :coordinates="[member.lat, member.long]" >
       <MglPopup>
-          <div><img :src="member.image" :alt="member.firstName" /> <span>{{ member.firstName }} {{ member.lastName }}</span></div>
+        <MapCard :member="member" />
       </MglPopup>
     </MglMarker>
   </MglMap>
@@ -11,11 +11,12 @@
 <script>
 import Mapbox from "mapbox-gl";
 import { MglMap, MglMarker, MglPopup } from "vue-mapbox";
+import MapCard from './MapCard';
 import members from "../constants/user";
 
 export default {
   components: {
-    MglMap, MglMarker, MglPopup
+    MglMap, MglMarker, MglPopup, MapCard
   },
   data() {
     return {
@@ -30,3 +31,8 @@ export default {
   }
 };
 </script>
+<style>
+.mapboxgl-popup-content{
+  padding: 10px;
+}
+</style>

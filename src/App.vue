@@ -24,4 +24,10 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+
+a {
+  color: #03c6f4;
+  text-decoration: none;
+}
+
 </style>
