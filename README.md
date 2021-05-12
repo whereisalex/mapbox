@@ -8,14 +8,11 @@ Create an .env file in the root directory with the following entries:
 
 ```javascript
 VUE_APP_MAPBOX_TOKEN=MAPBOX PUBLIC TOKEN
+VUE_APP_MAPBOX_STYLE_URL=MAPBOX STYLE URL
 VUE_APP_GOOGLE_MAPS_API_KEY=GOOGLE MAPS API KEY
 ```
 
 ## Available scripts
-
-```
-yarn install
-```
 
 ### Compiles and hot-reloads for development
 
