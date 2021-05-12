@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import Maps from './components/Maps.vue'
+import Maps from './screens/Maps.vue'
 
 export default {
   name: 'App',

@@ -12,7 +12,7 @@
 </template>
 
 <script>
-import MapboxMap from './MapboxMap';
+import MapboxMap from './../components/MapboxMap';
 
 export default {
   components: {
