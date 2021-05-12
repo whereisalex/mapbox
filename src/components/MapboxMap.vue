@@ -1,6 +1,6 @@
 <template>
   <MglMap :accessToken="accessToken" :mapStyle="mapStyle">
-    <MglMarker v-for="member in members" v-bind:key="member.id" :coordinates="[member.lat, member.long]" >
+    <MglMarker v-for="member in members" v-bind:key="member.id" :coordinates="[member.long, member.lat]" >
       <MglPopup>
         <MapCard :member="member" />
       </MglPopup>
