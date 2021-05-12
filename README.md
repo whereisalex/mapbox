@@ -1,6 +1,8 @@
-# Maps
+# Mapbox
 
 Demo Vue app to play around with [mapbox](https://www.mapbox.com/).
+
+<img src="./src/assets/Screenshot.png" alt="screenshot" width="500"/>
 
 ## Project setup
 
