@@ -2,7 +2,7 @@
 
 Demo Vue app to play around with [mapbox](https://www.mapbox.com/).
 
-<img src="./src/assets/Screenshot.png" alt="screenshot" width="500"/>
+<img src="./src/assets/screenshot.png" alt="screenshot" width="500"/>
 
 ## Project setup
 
